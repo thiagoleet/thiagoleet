@@ -1,16 +1,18 @@
-### Hi there 👋
+![Thiago - Capa](https://user-images.githubusercontent.com/9437391/153274659-915c4df9-0032-4757-a9a2-6a85107c276b.png)
 
-<!--
-**thiagoleet/thiagoleet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there!
 
-Here are some ideas to get you started:
+## Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 I'm from Brazil
+- 👨‍💻Software Engineer, currently working with Frontend Development
+- 💡 Always learning.
+- ⚙️ Contact me on [LinkedIn](https://www.linkedin.com/in/thiagofmleite/)
+- 🚶‍♂️Follow me on [Twitter](https://twitter.com/thiagoleite), [Instagram](https://instagram.com/thiagoleet) and [Twitch](https://twitch.tv/thiagoleet).
+
+## My stats
+
+[![ThiagoLeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoleet&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoleet&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
