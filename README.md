@@ -12,7 +12,9 @@
 
 ## My stats
 
-[![ThiagoLeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoleet&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoleet&theme=radical&layout=compact&langs_count=10&hide=html,css,ejs,marko)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagoleet&show_icons=true&count_private=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoleet&layout=compact&theme=radical&langs_count=10&hide=html,css,ejs,marko" />
+</a>
